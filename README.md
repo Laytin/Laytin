@@ -9,7 +9,7 @@
   <a href="https://vk.com/ne9ko">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="t.me/ne9ko">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
   <br>
