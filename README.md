@@ -50,8 +50,8 @@ I'm using Intelij Idea, maven + ApacheTomcat for web applications.
 ---
 <div align = "center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laytin&show_icons=true&theme=react)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Laytin&theme=prussian)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laytin&layout=compact&langs_count=4&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laytin&layout=compact&langs_count=4&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
