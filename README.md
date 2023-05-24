@@ -34,7 +34,7 @@ My knowledge of technology:
   - Jackson (serialization)
   - Log4j
   - Testing: Postman
-  - 
+  
 I'm using Intelij Idea, maven/gradle.
 
 ---
