@@ -24,17 +24,18 @@ My knowledge of technology:
 
 - Understanding of OOP and Design Patterns
 - Good knowledge of Java (Core, Collections, Threading)
-- Spring Framework
+- Spring Frameworks
 - Hibernate
 - DB: PostgreSQL, MongoDB
 - Template engines: Thymeleaf, JSP(?)
 - Understanding REST and Microservices structure
 - Extras:
+  - RabbitMQ
   - JUnit
   - Jackson (serialization)
   - Log4j
   - Testing: Postman
-  
+  - ForgeGradle
 I'm using Intelij Idea, maven/gradle.
 
 ---
