@@ -35,7 +35,7 @@ My knowledge of technology:
   - Jackson (serialization)
   - Log4j
   - Testing: Postman
-  - ForgeGradle
+Also: ForgeGradle, GradleShadow(plugin).
 I'm using Intelij Idea, maven/gradle.
 
 ---
