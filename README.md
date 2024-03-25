@@ -65,7 +65,7 @@ The server side of the modification is used for injection into the runtime of th
 which allows you to get full functionality (both the functionality of the bukkit component and Forge), as well as to isolate transactions.
 The player only receives response data that is processed by openGL(LWJGL) graphics.
 Also, this separation allows you to abandon the graphical component for servers on the Spigot/Bukkit core.
--
+
 The project's capabilities are extensive:
 - Opening cases with animations
 - Receiving and previewing whales
