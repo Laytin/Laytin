@@ -68,7 +68,7 @@ Also, this separation allows you to abandon the graphical component for servers 
 
 The project's capabilities are extensive:
 - Opening cases with animations
-- Receiving and previewing whales
+- Receiving and previewing kits
 - A logging system that allows you to track a player’s multi-accounts (ONLY WITH HIS PERMISSION) to prevent bypassing bans
 - Notification system in Discord, as well as executing console commands using a bot or outputting messages to the game chat and vice versa
 - Warp system, public/private, checked by administrator
