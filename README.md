@@ -74,5 +74,5 @@ The project's capabilities are extensive:
 - Warp system, public/private, checked by administrator
 - In-game store
 
-Today, 26 March 2024, more than 4000 lines of Java Code have been written only in Plugin Part!
-I'm currently working on a GUI im ClientModeSide Part.
+More than 4000 lines of Java Code have been written only in Plugin Part!
+Currently working on a GUI im ClientModeSide Part. This part is almost finished, so work with the batch system will begin soon.
