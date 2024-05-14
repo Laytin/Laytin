@@ -60,6 +60,8 @@ I'm using Intelij Idea, maven/gradle.
 
 Work is currently underway to create a large monolithic project for the multi-user game Minecraft.
 -
+**[Project page](https://github.com/Laytin/ExlnProject)**
+-
 The project consists of a modification part that adds a graphical component, as well as communication with the server side of the modification. 
 The server side of the modification is used for injection into the runtime of the Java machine and work with the API of the plugin of the same name, 
 which allows you to get full functionality (both the functionality of the bukkit component and Forge), as well as to isolate transactions.
@@ -69,10 +71,15 @@ Also, this separation allows you to abandon the graphical component for servers 
 The project's capabilities are extensive:
 - Opening cases with animations
 - Receiving and previewing kits
-- A logging system that allows you to track a player’s multi-accounts (ONLY WITH HIS PERMISSION) to prevent bypassing bans
+- A logging system that allows you to track a player’s multi-accounts (ONLY WITH HIS PERMISSION!I am not responsible for using this function in a real project.
+  It is disabled by default.It is presented as educational material) to prevent bypassing bans
 - Notification system in Discord, as well as executing console commands using a bot or outputting messages to the game chat and vice versa
 - Warp system, public/private, checked by administrator
-- In-game store
+- In-game store, sync with web-store (in-game items)
+NOT RELEASED:
+- Daily Rewards
+- Some improvements to logging system to prevent WINREG changing
+- Tab render with permission level
+- Chat and chat formatting
 
-More than 4000 lines of Java Code have been written only in Plugin Part!
-Currently working on a GUI im ClientModeSide Part. This part is almost finished, so work with the batch system will begin soon.
+Currently working on a packet system beetwen client<->server.
