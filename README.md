@@ -76,6 +76,7 @@ The project's capabilities are extensive:
 - Notification system in Discord, as well as executing console commands using a bot or outputting messages to the game chat and vice versa
 - Warp system, public/private, checked by administrator
 - In-game store, sync with web-store (in-game items)
+  
 NOT RELEASED:
 - Daily Rewards
 - Some improvements to logging system to prevent WINREG changing
