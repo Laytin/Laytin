@@ -30,12 +30,13 @@ My knowledge of technology:
 - Template engines: Thymeleaf, JSP(?)
 - Understanding REST and Microservices structure
 - Extras:
-  - RabbitMQ
+  - RabbitMQ, Kafka
   - JUnit
   - Jackson (serialization)
   - Log4j
   - Testing: Postman
   - OpenAPI/Swagger
+  - AWS S3 API
 
 Also: ForgeGradle, GradleShadow(plugin).
 I'm using Intelij Idea, maven/gradle.
