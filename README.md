@@ -26,7 +26,7 @@ My knowledge of technology:
 - Good knowledge of Java (Core, Collections, Threading)
 - Spring Frameworks
 - Hibernate
-- DB: PostgreSQL, MongoDB
+- DB: PostgreSQL, MongoDB, H2
 - Template engines: Thymeleaf, JSP(?)
 - Understanding REST and Microservices structure
 - Extras:
@@ -37,8 +37,9 @@ My knowledge of technology:
   - Testing: Postman
   - OpenAPI/Swagger
   - AWS S3 API
+  - LiquiBase
 
-Also: ForgeGradle, GradleShadow(plugin).
+Also: ForgeGradle, GradleShadow(plugin), Lombok.
 I'm using Intelij Idea, maven/gradle.
 
 ---
