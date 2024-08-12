@@ -80,9 +80,10 @@ The project's capabilities are extensive:
 - In-game store, sync with web-store (in-game items)
   
 NOT RELEASED:
-- Daily Rewards
+- Daily Rewards (Plugin side 50% done)
 - Some improvements to logging system to prevent WINREG changing
 - Tab render with permission level
 - Chat and chat formatting
 
-Currently working on a packet system beetwen client<->server.
+Currently working on a packet system beetwen client<->server
+Fully linked: cases with payment, kit with cooldown, warps with advanced managment.
