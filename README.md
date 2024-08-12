@@ -39,7 +39,7 @@ My knowledge of technology:
   - AWS S3 API
   - LiquiBase
 
-Also: ForgeGradle, GradleShadow(plugin), Lombok.
+Also: ForgeGradle, GradleShadow(plugin), Lombok, LWJGL.
 I'm using Intelij Idea, maven/gradle.
 
 ---
