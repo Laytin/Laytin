@@ -12,12 +12,13 @@
   <a href="https://t.me/ne9ko">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
+  
+   [![](https://cf.way2muchnoise.eu/full_1093326_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/exln-tab)
+   
   <br>
   <img src="https://komarev.com/ghpvc/?username=Laytin&style=flat-square&color=blue" alt=""/ align="center">
   <br>
-  
-  [![](https://cf.way2muchnoise.eu/1093326.svg)](https://www.curseforge.com/minecraft/mc-mods/exln-tab)
-  
+    
 </div>
 
 
