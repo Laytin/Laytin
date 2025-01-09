@@ -55,7 +55,7 @@ I'm using Intelij Idea, maven/gradle.
 ---
 <div align = "center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Laytin&theme=prussian)](https://git.io/streak-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laytin&layout=compact)
   
 </div>
 
