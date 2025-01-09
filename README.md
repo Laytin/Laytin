@@ -16,7 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=Laytin&style=flat-square&color=blue" alt=""/ align="center">
   
 </div>
-[![](http://cf.way2muchnoise.eu/short_codechicken-lib-1-8_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/exln-tab)
+
+[![](https://cf.way2muchnoise.eu/240630.svg)](https://www.curseforge.com/minecraft/mc-mods/exln-tab)
+
 <h2>:man_scientist: About Me :</h2>
 
 I'm Java-Junior from Belarus, have a secondary education in electronics engineering.
