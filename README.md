@@ -14,10 +14,12 @@
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Laytin&style=flat-square&color=blue" alt=""/ align="center">
+
+  [![](https://cf.way2muchnoise.eu/exln-tab.svg)](https://www.curseforge.com/minecraft/mc-mods/exln-tab)
   
 </div>
 
-[![](https://cf.way2muchnoise.eu/240630.svg)](https://www.curseforge.com/minecraft/mc-mods/exln-tab)
+
 
 <h2>:man_scientist: About Me :</h2>
 
