@@ -15,7 +15,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=Laytin&style=flat-square&color=blue" alt=""/ align="center">
 
-  [![](https://cf.way2muchnoise.eu/exln-tab.svg)](https://www.curseforge.com/minecraft/mc-mods/exln-tab)
+  [![](https://cf.way2muchnoise.eu/1093326.svg)](https://www.curseforge.com/minecraft/mc-mods/exln-tab)
   
 </div>
 
