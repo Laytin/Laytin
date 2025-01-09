@@ -14,8 +14,7 @@
   </a>
   
    [![](https://cf.way2muchnoise.eu/full_1093326_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/exln-tab)
-   
-  <br>
+
   <img src="https://komarev.com/ghpvc/?username=Laytin&style=flat-square&color=blue" alt=""/ align="center">
   <br>
     
