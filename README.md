@@ -32,7 +32,6 @@ My knowledge of technology:
 - Template engines: Thymeleaf, JSP(?)
 - Understanding REST and Microservices structure
 - Extras:
-  - RabbitMQ, Kafka
   - JUnit
   - Jackson (serialization)
   - Log4j
